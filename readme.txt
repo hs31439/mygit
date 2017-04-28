@@ -8,4 +8,4 @@ Creating a new branch is quick AND simple.
 Creating a new branch is quick & simple.
 =======
 >>>>>>> feature1
-123
+654321
