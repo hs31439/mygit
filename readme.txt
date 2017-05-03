@@ -9,3 +9,5 @@ Creating a new branch is quick & simple.
 =======
 >>>>>>> feature1
 654321
+
+123456
